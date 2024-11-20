@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknombre_de_tu_proyecto"]=self["webpackChunknombre_de_tu_proyecto"]||[]).push([[594],{1417:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var u=function(){var t=this;t._self._c;return t._m(0)},r=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"about"},[e("h1",[t._v("This is an about page")])])}],s=n(1656),o={},a=(0,s.A)(o,u,r,!1,null,null,null),c=a.exports}}]);
+//# sourceMappingURL=about.af3540c6.js.map
